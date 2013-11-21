@@ -1,0 +1,10 @@
+// St‚phane Charette, charette@writeme.com
+// Open Class Library POV Front-end Launch Tool
+// Application & source code (c) St‚phane Charette
+
+
+#include "pov_launch.h"
+
+icon POV_LAUNCHDIALOG "pov_launch.ico"
+
+

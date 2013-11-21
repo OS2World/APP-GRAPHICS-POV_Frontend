@@ -1,0 +1,25 @@
+Name:         plnch01S.zip
+
+Text:         POV front-end (same as PLNCH01G but does _NOT_ require VAC++)
+
+O/S:          OS/2 2.x (?) and higher, Visual Age C++ is _NOT_ required
+
+Source:       included, uploaded by author
+
+Replaces:     none
+
+My name:      Stephane Charette
+
+My email:     charette@writeme.com
+
+Proposed dir: /pub/os2/apps/graphics/ray/pov
+
+
+This is _EXACTLY_ the same version as PLNCH01G.ZIP, except that I've
+statically linked the entire application so that VisualAge C++ is not
+required to run it.  Note that this version is more than 700kb while
+the dynamic version is about 80kb!  :)
+
+Stephane Charette
+charette@writeme.com
+
